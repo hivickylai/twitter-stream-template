@@ -12,6 +12,7 @@ You can find a full overview in [my blog post](https://coffeeattheairport.com/20
   * Uses [Twython](https://github.com/ryanmcgrath/twython) (`pip install Twython`)
 * __API access credentials__ of your own
   * Register your application and get these from: https://dev.twitter.com/apps
+
 ***
 
 Tested with Python 3.5.2
