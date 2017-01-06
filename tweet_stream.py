@@ -48,7 +48,7 @@ def process_tweets(tweets_queue):
     while True:
         tweet = tweets_queue.get()
         # Do something with the tweet! You can use the global "twitter" variable here.
-        # Next line prints output encoded in ASCII so it displays in Windows 10 command terminal
+        # Next line encodes tweet in ASCII so it displays in Windows 10 terminal
         print(tweet['text'].encode('ascii','ignore'))
         # Next line prints only the tweet author's info and not the whole tweet
         # print(tweet['user']['id'], tweet['user']['screen_name'])
