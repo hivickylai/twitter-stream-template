@@ -4,7 +4,7 @@ A template for experimenting with the Twitter Streaming API with helpful comment
 Uses Python threading and queues to process tweets provided using Twitter's search API.  
 Also includes a method of encoding tweets in ASCII to make Python play nice with Windows 10 terminal.
 
-You can find a full overview in [my blog post](https://vickylai.io/verbose/blog/2017-01-06-twitter-streaming-python-win10/), or ask me about it [@vickylaiio](https://twitter.com/vickylaiio).
+You can find a full overview in [my blog post](https://victoria.dev/verbose/the-basics-of-streaming-with-twitter-api/), or ask me about it [@victoriadotdev](https://twitter.com/victoriadotdev).
 ***
 
 ## Requirements  
